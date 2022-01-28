@@ -1,0 +1,34 @@
+.search{
+    margin: 20px 50px 0;
+}
+.search input{
+    padding: 20px 10px 10px;
+    border: 0;
+    width: calc(100% - 116px);
+    margin-right: 16px;
+    font-size: 22px;
+}
+.search input:focus{
+    border-bottom: 1px solid #CCC;
+    outline: none;
+}
+
+.btn{
+    padding: 6px 16px;
+    background-color: #006086;
+    border: 2px solid #006086;
+    color: #FFF;
+    font-weight: bold;
+    box-shadow: inset 1px 1px 4px 2px #FFF;
+    border-radius: 6px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.radio{
+    margin: 20px 50px 0;
+    font-size: 20px;
+}
+.radio span{
+    margin-right: 60px;
+}
